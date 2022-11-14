@@ -1,0 +1,22 @@
+{
+  "name": "anjali_level4",
+  "version": "1.0.0",
+  "description": "Level 4",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baraianjali/level4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baraianjali/level4/issues"
+  },
+  "homepage": "https://github.com/baraianjali/level4#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
